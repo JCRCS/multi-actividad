@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ws/Desafio_multi-actividad/multi-actividad/mlruns/2/0a0731fb9b4c45358db421856fbeb655/artifacts
+end_time: 1599188855609
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: 0a0731fb9b4c45358db421856fbeb655
+run_uuid: 0a0731fb9b4c45358db421856fbeb655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1599188855519
+status: 3
+tags: []
+user_id: juanc

@@ -1,0 +1,4 @@
+artifact_location: file:///C:/ws/Desafio_multi-actividad/multi-actividad/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: kiva1
